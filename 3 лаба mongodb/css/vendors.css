@@ -1,0 +1,17 @@
+
+#content {
+    margin-top: 1cm;
+}
+
+.vendor-header {
+    color: lightskyblue;
+    font-size: .7cm;
+}
+
+.vendor-desc {
+    word-wrap: break-word;
+}
+
+.vendor-name {
+    font-size: .7cm;
+}

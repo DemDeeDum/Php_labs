@@ -1,0 +1,39 @@
+#content {
+    margin-top: 1cm;
+}
+
+.items-header {
+    font-size: .7cm;
+}
+
+.items-header,
+input[type='text'],
+input[type='text']:focus,
+label {
+    color: lightskyblue;
+}
+
+#find-items {
+    background-color: lightseagreen;
+    border: 1px solid lightseagreen;
+}
+
+#find-items:hover {
+    background-color: lightskyblue;
+    border: 1px solid lightskyblue;
+}
+
+.item {
+    border: .9mm solid lightskyblue;
+    border-radius: 20px;
+    width: 5cm;
+}
+
+.item-point {
+    height: 1.5em;
+    overflow: hidden;
+}
+
+
+
+

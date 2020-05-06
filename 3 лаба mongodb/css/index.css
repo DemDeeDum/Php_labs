@@ -1,0 +1,82 @@
+
+button, 
+button:active, 
+button:focus {
+    outline: none;
+}
+
+.store-header {
+    font-size: 1cm;
+    background-color: lightskyblue;
+    color:white;
+}
+
+main {
+    margin-top: 1cm;
+    margin-bottom: 1cm;
+}
+
+.store-side-menu {
+    margin-top: 2cm;
+}
+
+.side-menu-button:hover {
+    background-color: lightskyblue;
+    border-color: lightskyblue;
+}
+
+
+.side-menu-button {
+    font-size: 0.7cm;
+    width: 4cm;
+    color: white;
+    background-color: lightseagreen;
+    border: 3mm solid lightseagreen;
+    border-radius: 50%;
+}
+
+
+.selected-button {
+    background-color: lightskyblue;
+    border-color: lightskyblue;
+}
+
+.footer-border-right {
+    border-right: .4mm solid white;
+    padding-right: 0.7cm;   
+    padding-left: 0.7cm;
+}
+
+.footer-row {
+    color:white;
+    padding: 0.5mm;
+    background-color: lightskyblue;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.big-text {
+    font-size: 1.5em;
+}
+
+.red {
+    color:red;
+}
+
+.green {
+    color: rgb(0, 255, 0);
+}
+
+.blue {
+    color: lightskyblue;
+}
+
+.gray {
+    color: gainsboro;
+}
+
+.display-none {
+    display: none;
+}
